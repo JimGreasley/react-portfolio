@@ -1,0 +1,28 @@
+
+/*  ---------------------------------------------------------------
+    Create page heading class to add a bottom border to separate 
+    the page title from the main data on the page.
+    ---------------------------------------------------------------
+*/
+
+/* .page-heading {
+    border-bottom: 2px solid lightblue;
+} */
+
+/*  ---------------------------------------------------------------
+    Special formatting for links on Nav bar.  Thank you, Tucker.
+    ---------------------------------------------------------------
+*/
+
+/* .nav-item{
+    height: 25px;
+    line-height: 7px;
+    margin-right: 10px;
+    border-right: 1px solid black;
+    padding-right: 10px;
+  }
+  .nav-item:last-child{
+    margin-right: 0;
+    border-right: none;
+    padding-right: 0;
+  } */
